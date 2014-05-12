@@ -1,0 +1,1 @@
+﻿SELECT TOP 1 CharID FROM Character ORDER BY CharID DESC

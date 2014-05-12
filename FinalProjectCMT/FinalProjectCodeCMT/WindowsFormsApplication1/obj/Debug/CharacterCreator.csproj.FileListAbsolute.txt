@@ -1,0 +1,114 @@
+C:\Users\Squirtle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csprojResolveAssemblyReference.cache
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BaseRolls.resources
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateForm.resources
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IntroForm.resources
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csproj.GenerateResource.Cache
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csprojResolveAssemblyReference.cache
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BaseRolls.resources
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateForm.resources
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IntroForm.resources
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Classes\Senior Project\Project Files\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Attacks.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BaseRolls.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateForm.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gear.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectionMenu.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DDChar.mdf
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DDChar_log.ldf
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectMenu.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DDChar.mdf
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DDChar_log.ldf
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Attacks.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BaseRolls.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateForm.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gear.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectionMenu.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectMenu.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Skills.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Feats.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Skills.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditChar.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe.config
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.Properties.Resources.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Feats.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditChar.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.Properties.Resources.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.Form1.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe.config
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.exe
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.pdb
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DDChar.mdf
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DDChar_log.ldf
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.pdb
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csprojResolveAssemblyReference.cache
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Attacks.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BaseRolls.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateForm.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Feats.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditChar.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.Form1.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gear.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.Properties.Resources.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectionMenu.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectMenu.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Skills.resources
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.csproj.GenerateResource.Cache
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe.manifest
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CharacterCreator.application
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.TrustInfo.xml
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.exe.manifest
+C:\Users\Squirtle\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CharacterCreator.application
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe.config
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.exe
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.pdb
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\bin\Debug\DDChar.mdf
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\bin\Debug\DDChar_log.ldf
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe.manifest
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\bin\Debug\CharacterCreator.application
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\bin\Debug\CharacterCreator.exe
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\bin\Debug\CharacterCreator.pdb
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.csprojResolveAssemblyReference.cache
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Attacks.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BaseRolls.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateForm.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Feats.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditChar.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.Form1.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gear.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.Properties.Resources.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectionMenu.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectMenu.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Skills.resources
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.csproj.GenerateResource.Cache
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.TrustInfo.xml
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.exe.manifest
+C:\Users\Squirtle\Desktop\FinalProjectCMT\FinalProjectCodeCMT\WindowsFormsApplication1\obj\Debug\CharacterCreator.application

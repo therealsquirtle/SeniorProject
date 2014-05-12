@@ -1,0 +1,28 @@
+﻿CREATE TABLE [dbo].[Character] (
+    [CharID]           INT         IDENTITY (1, 1) NOT NULL,
+    [name]             VARCHAR (1) NULL,
+    [Pname]            VARCHAR (1) NULL,
+    [class]            VARCHAR (1) NULL,
+    [raceID]           INT         NULL,
+    [clevel]           INT         NULL,
+    [ECL]              INT         NULL,
+    [Size]             VARCHAR (1) NULL,
+    [gender]           VARCHAR (1) NULL,
+    [alignment]        VARCHAR (1) NULL,
+    [religon]          VARCHAR (1) NULL,
+    [height]           INT         NULL,
+    [cweight]          INT         NULL,
+    [cdescription]     VARCHAR (1) NULL,
+    [photo]            IMAGE       NULL,
+    [touchAc]          INT         NULL,
+    [flatAC]           INT         NULL,
+    [hitPoints]        INT         NULL,
+    [experiencePoints] INT         NULL,
+    [lightCarry]       INT         NULL,
+    [medCarry]         INT         NULL,
+    [heavyCarry]       INT         NULL,
+    CONSTRAINT [PK__Characte__AA7BC254B1A395A7] PRIMARY KEY CLUSTERED ([CharID] ASC),
+    CONSTRAINT [FK_Character_Avgchar] FOREIGN KEY ([CharID]) REFERENCES [dbo].[Avgchar] ([charID]),
+    CONSTRAINT [FK_Character_Races] FOREIGN KEY ([raceID]) REFERENCES [dbo].[Races] ([Raceid])
+);
+
